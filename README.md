@@ -17,3 +17,4 @@ This code was created by [Shyam Rokde](https://github.com/mysgithub) in 2016 for
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+# generateUniqueName
